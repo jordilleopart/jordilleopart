@@ -1,17 +1,15 @@
-# Jordi Lleopart
+## Hi there 👋
 
-## About Me
-I am a third-year Software Engineering student with a specialization in databases and a keen interest in software development and emerging technologies. My professional focus includes:
-- 🔧 Developing scalable and efficient backend systems.
-- 🤖 Exploring generative AI applications in education and technology.
-- 🎨 Designing interactive web applications with a focus on algorithm visualization.
-- ⚙️ Integrating SDKs for mobile applications, including payment solutions and backend services.
 
-## Contact
-- 📧 [Email](mailto:your-email@example.com)
-- 🔗 [Personal Website](https://jordilleopart.com)
-- 🔰 [GitHub](https://github.com/your-github-profile)
+**jordilleopart/jordilleopart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am passionate about leveraging technology to create impactful solutions and always open to new opportunities and collaborations.
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
 
