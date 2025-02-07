@@ -14,7 +14,7 @@
 - Herramientas: **Draw.io**, **Git**, **VSCode**, **Safari**  
 
 ## 📈 Estadísticas  
-![Jordi Lleopart's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)  
+![Jordi Lleopart's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordilleopart&show_icons=true&theme=radical)  
 
 ## 📫 Cómo contactarme  
 - ✉️ [Email](mailto:tu-email@example.com)  
