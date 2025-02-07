@@ -3,7 +3,6 @@
 ## 👨‍💻 Sobre mí  
 - 🎓 Estudiante de tercer año de Ingeniería de Software en la Universidad Pompeu Fabra  
 - 📚 Interesado en bases de datos, inteligencia artificial generativa y el desarrollo de SDKs  
-- 🎓 Actualmente trabajando en una tesis sobre cambio de idioma  
 - 💭 Explorando ideas sobre mind uploading y su impacto en la sociedad  
 - 🌍 Me apasiona el teletrabajo y el futuro de la educación  
 
