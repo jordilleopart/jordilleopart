@@ -1,15 +1,22 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jordi Lleopart
 
+## 👨‍💻 Sobre mí  
+- 🎓 Estudiante de tercer año de Ingeniería de Software en la Universidad Pompeu Fabra  
+- 📚 Interesado en bases de datos, inteligencia artificial generativa y el desarrollo de SDKs  
+- 🎓 Actualmente trabajando en una tesis sobre cambio de idioma  
+- 💭 Explorando ideas sobre mind uploading y su impacto en la sociedad  
+- 🌍 Me apasiona el teletrabajo y el futuro de la educación  
 
-**jordilleopart/jordilleopart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tecnologías y herramientas  
+- Lenguajes: **Python**, **Java**, **SQL**, **JavaScript**  
+- Bases de datos: **MySQL**, **PostgreSQL**, **Firebase**  
+- Desarrollo de aplicaciones: **SDKs**, **Apple Pay Integration**, **Firebase**  
+- Herramientas: **Draw.io**, **Git**, **VSCode**, **Safari**  
 
-Here are some ideas to get you started:
+## 📈 Estadísticas  
+![Jordi Lleopart's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+## 📫 Cómo contactarme  
+- ✉️ [Email](mailto:tu-email@example.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
 
